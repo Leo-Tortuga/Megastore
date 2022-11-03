@@ -76,6 +76,7 @@ SELECT
 FROM	
     megastore;   
 /*
+
 OK! So we know store 650 has the highest sales and we can see that :
 	- it has nearly the same amount of footage and products compare the stores who have the most 
     - therefore we can see why it has the most sales compared to all the others 
